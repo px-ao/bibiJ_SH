@@ -1,0 +1,586 @@
+[
+    {
+        "id": 1,
+        "testament": "old",
+        "bookset": null, 
+        "number": 1,
+        "name": "Gênesis",
+        "chapterscount": 50
+    },
+    {
+        "id": 2,
+        "testament": "old",
+        "bookset": null,
+        "number": 2,
+        "name": "Êxodo",
+        "chapterscount": 40
+    },
+    {
+        "id": 3,
+        "testament": "old",
+        "bookset": null,
+        "number": 3,
+        "name": "Levítico",
+        "chapterscount": 27
+    },
+    {
+        "id": 4,
+        "testament": "old",
+        "bookset": null,
+        "number": 4,
+        "name": "Números",
+        "chapterscount": 36
+    },
+    {
+        "id": 5,
+        "testament": "old",
+        "bookset": null,
+        "number": 5,
+        "name": "Deuteronômio",
+        "chapterscount": 34
+    },
+    {
+        "id": 6,
+        "testament": "old",
+        "bookset": null,
+        "number": 6,
+        "name": "Josué",
+        "chapterscount": 24
+    },
+    {
+        "id": 7,
+        "testament": "old",
+        "bookset": null,
+        "number": 7,
+        "name": "Juizes",
+        "chapterscount": 21
+    },
+    {
+        "id": 8,
+        "testament": "old",
+        "bookset": null,
+        "number": 8,
+        "name": "Rute",
+        "chapterscount": 4
+    },
+    {
+        "id": 9,
+        "testament": "old",
+        "bookset": null,
+        "number": 9,
+        "name": "I Samuel",
+        "chapterscount": 31
+    },
+    {
+        "id": 10,
+        "testament": "old",
+        "bookset": null,
+        "number": 10,
+        "name": "II Samuel",
+        "chapterscount": 24
+    },
+    {
+        "id": 11,
+        "testament": "old",
+        "bookset": null,
+        "number": 11,
+        "name": "I Reis",
+        "chapterscount": 22
+    },
+    {
+        "id": 12,
+        "testament": "old",
+        "bookset": null,
+        "number": 12,
+        "name": "II Reis",
+        "chapterscount": 25
+    },
+    {
+        "id": 13,
+        "testament": "old",
+        "bookset": null,
+        "number": 13,
+        "name": "I Crônicas",
+        "chapterscount": 29
+    },
+    {
+        "id": 14,
+        "testament": "old",
+        "bookset": null,
+        "number": 14,
+        "name": "II Crônicas",
+        "chapterscount": 36
+    },
+    {
+        "id": 15,
+        "testament": "old",
+        "bookset": null,
+        "number": 15,
+        "name": "Esdras",
+        "chapterscount": 10
+    },
+    {
+        "id": 16,
+        "testament": "old",
+        "bookset": null,
+        "number": 16,
+        "name": "Neemias",
+        "chapterscount": 13
+    },
+    {
+        "id": 17,
+        "testament": "old",
+        "bookset": null,
+        "number": 17,
+        "name": "Tobias",
+        "chapterscount": 14
+    },
+    {
+        "id": 18,
+        "testament": "old",
+        "bookset": null,
+        "number": 18,
+        "name": "Judite",
+        "chapterscount": 16
+    },
+    {
+        "id": 19,
+        "testament": "old",
+        "bookset": null,
+        "number": 19,
+        "name": "Ester",
+        "chapterscount": 10
+    },
+    {
+        "id": 20,
+        "testament": "old",
+        "bookset": null,
+        "number": 20,
+        "name": "I Macabeus",
+        "chapterscount": 16
+    },
+    {
+        "id": 21,
+        "testament": "old",
+        "bookset": null,
+        "number": 21,
+        "name": "II Macabeus",
+        "chapterscount": 15
+    },
+    {
+        "id": 22,
+        "testament": "old",
+        "bookset": null,
+        "number": 22,
+        "name": "Jó",
+        "chapterscount": 42
+    },
+    {
+        "id": 23,
+        "testament": "old",
+        "bookset": null,
+        "number": 23,
+        "name": "Salmos",
+        "chapterscount": 150
+    },
+    {
+        "id": 24,
+        "testament": "old",
+        "bookset": null,
+        "number": 24,
+        "name": "Provérbios",
+        "chapterscount": 31
+    },
+    {
+        "id": 25,
+        "testament": "old",
+        "bookset": null,
+        "number": 25,
+        "name": "Eclesiastes",
+        "chapterscount": 12
+    },
+    {
+        "id": 26,
+        "testament": "old",
+        "bookset": null,
+        "number": 26,
+        "name": "Cântico dos Cânticos",
+        "chapterscount": 8
+    },
+    {
+        "id": 27,
+        "testament": "old",
+        "bookset": null,
+        "number": 27,
+        "name": "Sabedoria",
+        "chapterscount": 19
+    },
+    {
+        "id": 28,
+        "testament": "old",
+        "bookset": null,
+        "number": 28,
+        "name": "Eclesiástico",
+        "chapterscount": 52
+    },
+    {
+        "id": 29,
+        "testament": "old",
+        "bookset": null,
+        "number": 29,
+        "name": "Isaías",
+        "chapterscount": 66
+    },
+    {
+        "id": 30,
+        "testament": "old",
+        "bookset": null,
+        "number": 30,
+        "name": "Jeremias",
+        "chapterscount": 52
+    },
+    {
+        "id": 31,
+        "testament": "old",
+        "bookset": null,
+        "number": 31,
+        "name": "Lamentações",
+        "chapterscount": 5
+    },
+    {
+        "id": 32,
+        "testament": "old",
+        "bookset": null,
+        "number": 32,
+        "name": "Baruc",
+        "chapterscount": 6
+    },
+    {
+        "id": 33,
+        "testament": "old",
+        "bookset": null,
+        "number": 33,
+        "name": "Ezequiel",
+        "chapterscount": 48
+    },
+    {
+        "id": 34,
+        "testament": "old",
+        "bookset": null,
+        "number": 34,
+        "name": "Daniel",
+        "chapterscount": 14
+    },
+    {
+        "id": 35,
+        "testament": "old",
+        "bookset": null,
+        "number": 35,
+        "name": "Oséias",
+        "chapterscount": 14
+    },
+    {
+        "id": 36,
+        "testament": "old",
+        "bookset": null,
+        "number": 36,
+        "name": "Joel",
+        "chapterscount": 4
+    },
+    {
+        "id": 37,
+        "testament": "old",
+        "bookset": null,
+        "number": 37,
+        "name": "Amós",
+        "chapterscount": 9
+    },
+    {
+        "id": 38,
+        "testament": "old",
+        "bookset": null,
+        "number": 38,
+        "name": "Abdias",
+        "chapterscount": 1
+    },
+    {
+        "id": 39,
+        "testament": "old",
+        "bookset": null,
+        "number": 39,
+        "name": "Jonas",
+        "chapterscount": 4
+    },
+    {
+        "id": 40,
+        "testament": "old",
+        "bookset": null,
+        "number": 40,
+        "name": "Miquéias",
+        "chapterscount": 7
+    },
+    {
+        "id": 41,
+        "testament": "old",
+        "bookset": null,
+        "number": 41,
+        "name": "Naum",
+        "chapterscount": 3
+    },
+    {
+        "id": 42,
+        "testament": "old",
+        "bookset": null,
+        "number": 42,
+        "name": "Habacuc",
+        "chapterscount": 3
+    },
+    {
+        "id": 43,
+        "testament": "old",
+        "bookset": null,
+        "number": 43,
+        "name": "Sofonias",
+        "chapterscount": 3
+    },
+    {
+        "id": 44,
+        "testament": "old",
+        "bookset": null,
+        "number": 44,
+        "name": "Ageu",
+        "chapterscount": 2
+    },
+    {
+        "id": 45,
+        "testament": "old",
+        "bookset": null,
+        "number": 45,
+        "name": "Zacarias",
+        "chapterscount": 14
+    },
+    {
+        "id": 46,
+        "testament": "old",
+        "bookset": null,
+        "number": 46,
+        "name": "Malaquias",
+        "chapterscount": 3
+    },
+    {
+        "id": 47,
+        "testament": "new",
+        "bookset": null,
+        "number": 47,
+        "name": "São Mateus",
+        "chapterscount": 28
+    },
+    {
+        "id": 48,
+        "testament": "new",
+        "bookset": null,
+        "number": 48,
+        "name": "São Marcos",
+        "chapterscount": 16
+    },
+    {
+        "id": 49,
+        "testament": "new",
+        "bookset": null,
+        "number": 49,
+        "name": "São Lucas",
+        "chapterscount": 24
+    },
+    {
+        "id": 50,
+        "testament": "new",
+        "bookset": null,
+        "number": 50,
+        "name": "São João",
+        "chapterscount": 21
+    },
+    {
+        "id": 51,
+        "testament": "new",
+        "bookset": null,
+        "number": 51,
+        "name": "Atos dos Apóstolos",
+        "chapterscount": 28
+    },
+    {
+        "id": 52,
+        "testament": "new",
+        "bookset": null,
+        "number": 52,
+        "name": "Romanos",
+        "chapterscount": 16
+    },
+    {
+        "id": 53,
+        "testament": "new",
+        "bookset": null,
+        "number": 53,
+        "name": "I Coríntios",
+        "chapterscount": 16
+    },
+    {
+        "id": 54,
+        "testament": "new",
+        "bookset": null,
+        "number": 54,
+        "name": "II Coríntios",
+        "chapterscount": 13
+    },
+    {
+        "id": 55,
+        "testament": "new",
+        "bookset": null,
+        "number": 55,
+        "name": "Gálatas",
+        "chapterscount": 6
+    },
+    {
+        "id": 56,
+        "testament": "new",
+        "bookset": null,
+        "number": 56,
+        "name": "Efésios",
+        "chapterscount": 6
+    },
+    {
+        "id": 57,
+        "testament": "new",
+        "bookset": null,
+        "number": 57,
+        "name": "Filipenses",
+        "chapterscount": 4
+    },
+    {
+        "id": 58,
+        "testament": "new",
+        "bookset": null,
+        "number": 58,
+        "name": "Colossenses",
+        "chapterscount": 4
+    },
+    {
+        "id": 59,
+        "testament": "new",
+        "bookset": null,
+        "number": 59,
+        "name": "I Tessalonicenses",
+        "chapterscount": 5
+    },
+    {
+        "id": 60,
+        "testament": "new",
+        "bookset": null,
+        "number": 60,
+        "name": "II Tessalonicenses",
+        "chapterscount": 3
+    },
+    {
+        "id": 61,
+        "testament": "new",
+        "bookset": null,
+        "number": 61,
+        "name": "I Timóteo",
+        "chapterscount": 6
+    },
+    {
+        "id": 62,
+        "testament": "new",
+        "bookset": null,
+        "number": 62,
+        "name": "II Timóteo",
+        "chapterscount": 4
+    },
+    {
+        "id": 63,
+        "testament": "new",
+        "bookset": null,
+        "number": 63,
+        "name": "Tito",
+        "chapterscount": 3
+    },
+    {
+        "id": 64,
+        "testament": "new",
+        "bookset": null,
+        "number": 64,
+        "name": "Filemôn",
+        "chapterscount": 1
+    },
+    {
+        "id": 65,
+        "testament": "new",
+        "bookset": null,
+        "number": 65,
+        "name": "Hebreus",
+        "chapterscount": 13
+    },
+    {
+        "id": 66,
+        "testament": "new",
+        "bookset": null,
+        "number": 66,
+        "name": "São Tiago",
+        "chapterscount": 5
+    },
+    {
+        "id": 67,
+        "testament": "new",
+        "bookset": null,
+        "number": 67,
+        "name": "I São Pedro",
+        "chapterscount": 5
+    },
+    {
+        "id": 68,
+        "testament": "new",
+        "bookset": null,
+        "number": 68,
+        "name": "II São Pedro",
+        "chapterscount": 3
+    },
+    {
+        "id": 69,
+        "testament": "new",
+        "bookset": null,
+        "number": 69,
+        "name": "I São João",
+        "chapterscount": 5
+    },
+    {
+        "id": 70,
+        "testament": "new",
+        "bookset": null,
+        "number": 70,
+        "name": "II São João",
+        "chapterscount": 1
+    },
+    {
+        "id": 71,
+        "testament": "new",
+        "bookset": null,
+        "number": 71,
+        "name": "III São João",
+        "chapterscount": 1
+    },
+    {
+        "id": 72,
+        "testament": "new",
+        "bookset": null,
+        "number": 72,
+        "name": "São Judas",
+        "chapterscount": 1
+    },
+    {
+        "id": 73,
+        "testament": "new",
+        "bookset": null,
+        "number": 73,
+        "name": "Apocalipse",
+        "chapterscount": 22
+    }
+]
